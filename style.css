@@ -43,7 +43,8 @@ body * {
 }
 
 #conteiner {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* height: 712px; não precisa
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 8px;
